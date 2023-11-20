@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Image Slide Puzzle/1.0.0": {
+        "runtime": {
+          "Image Slide Puzzle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Image Slide Puzzle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image_Slide_Puzzle.Form1.resources
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfo.cs
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.exe
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.deps.json
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.runtimeconfig.json
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\refint\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.genruntimeconfig.cache
+C:\Users\Win10\Desktop\BU-programing\SE\Image Slide Puzzle\obj\Debug\net6.0-windows\ref\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.exe
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.deps.json
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.runtimeconfig.json
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image_Slide_Puzzle.Form1.resources
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfo.cs
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\refint\Image Slide Puzzle.dll
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.genruntimeconfig.cache
+C:\Users\Win10\Desktop\programming\GameDev-Project\Image Slide Puzzle\obj\Debug\net6.0-windows\ref\Image Slide Puzzle.dll
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.exe
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.deps.json
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.runtimeconfig.json
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\bin\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image_Slide_Puzzle.Form1.resources
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.dll
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\refint\Image Slide Puzzle.dll
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.pdb
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\Image Slide Puzzle.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Game-Projects\Image Slide Puzzle\Image Slide Puzzle\obj\Debug\net6.0-windows\ref\Image Slide Puzzle.dll
